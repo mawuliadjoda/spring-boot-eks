@@ -1,3 +1,8 @@
+# eksctl installation
+https://eksctl.io/installation/
+https://docs.aws.amazon.com/eks/latest/userguide/setting-up.html 
+
+
 docker build -t springboot-eks .
 
 
